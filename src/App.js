@@ -18,10 +18,13 @@ function App() {
     }
   };
 
-  // First Task
+  // 1st Task
   // Na emfanisoume se ul -> li ola ta descriptions apo ta data pou exoume parei apo ta api
   // Molis to kaneis dokimase css na pane ola terma aristera
   // kai i lista na pianei to 80% tis othonis
+
+  // 2nd Task
+  // Ftiaxneis koumpi to opoio otan to patas tha kanei ekeino to api call
 
   useEffect(() => {
     getRequest();
